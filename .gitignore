@@ -1,0 +1,11 @@
+node_modules
+dist
+.DS_Store
+src/.DS_Store
+output
+.playwright-cli
+.env
+.env.*
+!.env.example
+supabase/.temp
+*.tsbuildinfo
