@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 96" role="img" aria-labelledby="title desc">
+  <title id="title">Syncforce logo</title>
+  <desc id="desc">Rounded green Syncforce wordmark with connected S symbol.</desc>
+  <rect x="4" y="4" width="88" height="88" rx="26" fill="#3b8275"/>
+  <path d="M33 34c7-12 27-13 38-3M63 62c-7 12-27 13-38 3" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+  <path d="M28 62c7 8 30 5 35-3 7-11-33-9-27-23 4-10 25-11 35-3" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="76" cy="24" r="6" fill="#bde8dc"/>
+  <text x="112" y="57" fill="#1d1d1f" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="42" font-weight="800">Syncforce</text>
+</svg>
